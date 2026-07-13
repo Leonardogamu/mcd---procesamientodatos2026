@@ -8,6 +8,6 @@ Este repositorio se elaboro para la materia de Procesamiento y Clasificación de
 
 **Tareas elaboradas por el alumno Leonardo Garcia Muñoz:**
 
-- [Tarea 1]([https://github.com/Leonardogamu/mcd---procesamientodatos2026/blob/main/Tarea%201/Tarea_1_analisis_textual.pdf])
+- [Tarea_1](https://github.com/Leonardogamu/mcd---procesamientodatos2026/blob/main/Tarea%201/Tarea%201%20analisis%20textual.pdf)
 - 
  *La lista se ira actualizando conforme se realicen el resto de tareas*

@@ -13,7 +13,7 @@ Este repositorio se elaboro para la materia de Procesamiento y Clasificación de
 - [Tarea_3](Tarea%203/Tarea_3.pdf)
 - [Tarea_4](Tarea%204/Tarea_4.pdf)
 - [Tarea_5](Tarea%205/Tarea_5.pdf)
-- [Tarea_6_y_7](Tarea%206y7/Tarea_6y7.pdf)
+- [Tarea_6_y_7](Tarea_6y7/Tarea_6y7.pdf)
 
-  
+
  *La lista se ira actualizando conforme se realicen el resto de tareas*

@@ -10,6 +10,7 @@ Este repositorio se elaboro para la materia de Procesamiento y Clasificación de
 
 - [Tarea_1](Tarea%201/Tarea_1_analisis_textual.pdf)
 - [Tarea_2](Tarea%202/Tarea_2.pdf)
+- [Tarea_3](Tarea%203/Tarea_3.pdf)
 
   
  *La lista se ira actualizando conforme se realicen el resto de tareas*
